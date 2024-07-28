@@ -1,5 +1,6 @@
 
-## MY FAVOURITE THINGS
+## <h1 align="center"> MY FAVOURITE THINGS </h1>
+
 
 <div align="center">
 	<img width = "14%" src="https://github.com/user-attachments/assets/3cf2d653-7f52-4f47-bcc1-648d8b9d14c0">
@@ -23,4 +24,4 @@
 	<img width = "14%" src="https://github.com/user-attachments/assets/77f1e749-9283-4676-85a1-e9c50a37a253">
 </div>
 
-## THANK YOU <3
+## <h1 align="center"> THANK YOU <3</h1>
