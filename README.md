@@ -1,2 +1,4 @@
-![dragon ball z GIF - Find   Share on GIPHY](https://github.com/user-attachments/assets/5971b125-790a-47d8-aedb-15d0f2168e31)
 
+<p align="center">
+  <img width="460" height="300" src="![dragon ball z GIF - Find   Share on GIPHY](https://github.com/user-attachments/assets/b99052cc-b754-4ae0-8e6c-66e94e2e4acc)">
+</p>
