@@ -24,4 +24,8 @@
 	<img width = "14%" src="https://github.com/user-attachments/assets/77f1e749-9283-4676-85a1-e9c50a37a253">
 </div>
 
+<h5 align="center"> I never interact first. </h5>
+<h5 align="center"> I'm only quiet because I have no idea on what to talk about. </h5>
+<h5 align="center"> C + H , I have a touch comfort , but only if we've spoken for a bit. </h5>
+
 ## <h1 align="center"> THANK YOU <3</h1>
