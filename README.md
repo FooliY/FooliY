@@ -1,5 +1,5 @@
 
-## <h1 align="center"> MY FAVOURITE THINGS </h1>
+ <h1 align="center"> MY FAVOURITE THINGS </h1>
 
 
 <div align="center">
@@ -28,7 +28,7 @@
 <h5 align="center"> I'm only quiet because I have no idea on what to talk about. </h5>
 <h5 align="center"> C + H , I have a touch comfort , but only if we've spoken for a bit. </h5>
 
-## <h1 align="center"> THANK YOU <3</h1>
+ <h1 align="center"> THANK YOU <3</h1>
 
 </div>
 
