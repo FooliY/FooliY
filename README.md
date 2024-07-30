@@ -29,3 +29,10 @@
 <h5 align="center"> C + H , I have a touch comfort , but only if we've spoken for a bit. </h5>
 
 ## <h1 align="center"> THANK YOU <3</h1>
+
+</div>
+
+<div align="center">
+	<img width = "20%" src="https://github.com/user-attachments/assets/62023b2c-b20b-44b5-9f91-ee1cc17c6366">
+
+</div>
