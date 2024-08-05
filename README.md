@@ -38,3 +38,8 @@
 
 </div>
 
+<div align="right">
+	<img width = "2%" src="https://github.com/user-attachments/assets/2e862b2c-2259-4537-ade1-83e5a78b5172">
+ <img width = "2%" src="https://github.com/user-attachments/assets/109724d3-0593-44bd-85f6-99327c02344a">
+
+</div>
