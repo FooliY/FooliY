@@ -37,7 +37,7 @@
 	<img width = "20%" src="https://github.com/user-attachments/assets/62023b2c-b20b-44b5-9f91-ee1cc17c6366">
 
  <h1 align="center"> PUBLIC SERVICE ANNOUCEMENT! THIS PERSON COPIED MY SKIN! </h1>
-<h3 align="center"> THEY EVEN COPIED MY NAME! LITERALLY THE EXACT SAME NAME FOR THE SKIN. nvm, it literally says 'Vegata' </h3>
+<h3 align="center"> THEY EVEN COPIED THE STARS IN MY NAME! </h3>
 
 <div align="center">
 	<img width = "75%" src="https://github.com/user-attachments/assets/7a4f3533-1c91-435f-b5a9-b18bb0f18700">
