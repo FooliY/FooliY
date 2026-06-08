@@ -24,10 +24,8 @@
 	<img width = "14%" src="https://github.com/user-attachments/assets/77f1e749-9283-4676-85a1-e9c50a37a253">
 </div>
 
-<h5 align="center"> Please look at my strawpage, I need friends and I only have my partner and they pity me </h5>
-<h5 align="center"> I'm only quiet because I have no idea on what to talk about. </h5>
-<h5 align="center"> C + H , I have a touch comfort , but only if we've spoken for a bit. </h5>
-<h5 align="center"> Please, please, PLEASE! Do not copy my skins. </h5>
+<h5 align="center"> Hello! don't be afraid to talk to me! I am a hypcrite though because I am TERRIFIED of talking to you aha. I'm looking for people that share the same interests as me because it would be so awesome to talk about them together and get to know more. My strawpage is linked and has all the info, my discord user is in there if you are interested and perhaps talking to me? : 3 </h5>
+
 
  <h1 align="center"> THANK YOU <3</h1>
 
