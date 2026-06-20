@@ -4,7 +4,7 @@
 
 <div align="center">
 	<img width = "14%" src="https://cdn.discordapp.com/attachments/777921374375116853/1517998268406173706/stamp.gif?ex=6a38518e&is=6a37000e&hm=2880f59ab23f37846c3826033ebb4f7cb8ae74f0241b0ddeaed44c27236ca912&" />
-">
+
 <img width = "14%" src="https://github.com/user-attachments/assets/77c546fe-828a-4ddc-8ce8-d39980171b7c">
 	<img width = "14%" src="https://github.com/user-attachments/assets/3697fa44-0ff8-4a27-bbcb-c285c63b8236">
 	<img width = "14%" src="https://github.com/user-attachments/assets/a1337bb8-9d76-4218-a567-b495c65a0dc3">
